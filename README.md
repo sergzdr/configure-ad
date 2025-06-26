@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 
 <p>
-<img src="https://i.imgur.com/d22FHIm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d22FHIm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -87,7 +87,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
-<img src="https://i.imgur.com/hL7g5Y5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hL7g5Y5.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>
 
 <p>
@@ -110,7 +110,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
-<img src="https://i.imgur.com/jbrGTXW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jbrGTXW.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 <img src="https://i.imgur.com/kvcm2cY.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
@@ -126,7 +126,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
-<img src="https://i.imgur.com/Ze0Em5e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ze0Em5e.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -139,7 +139,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
-<img src="https://i.imgur.com/SApOKiE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SApOKiE.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>
 <br />
   
@@ -152,7 +152,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <p>
 
-<img src="https://i.imgur.com/EzWG8ug.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EzWG8ug.png" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 <p>
 <p>
   <p>
@@ -160,5 +160,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <img src="https://i.imgur.com/n3gMwQV.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-As you can see the Powershell script created a user with the username "bab.hubo" We were able to login to Client-1 with his credentials as a normal user. 
+  
+- As you can see the Powershell script created a user with the username "bab.hubo".
+- We were able to login to Client-1 with his credentials as a normal user. 
 </p>
